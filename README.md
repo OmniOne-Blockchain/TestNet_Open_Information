@@ -21,4 +21,5 @@ The components
   - http://developers.omnione.net
 
 5. Global App information
-  - https://drive.google.com/open?id=1CvA8tAGnjiCXG6e1KHNm9TpuUez2CLhb
+  - android: https://drive.google.com/open?id=1CvA8tAGnjiCXG6e1KHNm9TpuUez2CLhb
+  - iOS: https://testnet.omnione.net/omniissuer/html/OmniOne.html
