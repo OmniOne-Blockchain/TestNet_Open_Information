@@ -23,3 +23,6 @@ The components
 5. Global App information
   - android: https://drive.google.com/open?id=1CvA8tAGnjiCXG6e1KHNm9TpuUez2CLhb
   - iOS: https://testnet.omnione.net/omniissuer/html/OmniOne.html
+
+6. Manager Console
+  - https://testnet.omnione.net/console 
