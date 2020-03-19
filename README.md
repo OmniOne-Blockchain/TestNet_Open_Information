@@ -21,12 +21,9 @@ The components
   - http://developers.omnione.net
 
 5. Global App information
-  - android: https://drive.google.com/open?id=1CvA8tAGnjiCXG6e1KHNm9TpuUez2CLhb
-  - iOS: https://testnet.omnione.net/omniissuer/html/OmniOne.html
+  - android: 
+  - iOS: 
   - TestURLs :
-    * https://testnet.omnione.net/omnisp/sp/main (for PC browser) 
-    * https://testnet.omnione.net/omnisp/shop/ (for mobile browser)
-    * https://testnet.omnione.net/omnisp/shop/bank (for mobile browser)
 
 6. Manager Console
   - https://testnet.omnione.net/console 
